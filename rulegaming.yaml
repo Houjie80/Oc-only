@@ -61,6 +61,7 @@ payload:
   - DOMAIN-KEYWORD,shellfire
   - DOMAIN-SUFFIX,shellfire.duniagames.co.id
 # MobileLegends
+  - DOMAIN,a104-117-77-122.deploy.static.akamaitechnologies.com
   - DOMAIN-KEYWORD,mobilelegends
   - DOMAIN,mobilelegends.com
   - DOMAIN-SUFFIX,mobilelegends.com
