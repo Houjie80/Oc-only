@@ -1,4 +1,11 @@
 payload:
+# Zerotier
+  - DOMAIN,my.zerotier.com
+  - DOMAIN-SUFFIX,zerotier.com
+  - DST-PORT,9993
+  - DST-PORT,29994
+  - DST-PORT,40775
+  - DST-PORT,43215
 # FreeFire
   - IP-CIDR,103.14.247.0/24
   - IP-CIDR,143.92.120.0/24
